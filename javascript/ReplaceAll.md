@@ -41,4 +41,5 @@ const replaced = original.replaceAll('carol', 'anais');
 console.log(replaced);
 ```
 > **Results:** I am anais kim. You can call me just anais.  
+
 It's quite simple. Using split() and join() method's separator, we can replace the value what we want.
