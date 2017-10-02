@@ -49,8 +49,8 @@ function() {
 ```
   
 ### 3. For ...of Loop
-For ...of Loop is from ECMAScript6, and it is the best way of for loop. 
-No **index** and it only loop over the values in the object, so don't have to worry about adding ne properties.
+For ...of Loop is from ECMAScript6, and it is the best way of for loop.   
+No **index** and it only loop over the values in the object, so don't have to worry about adding new properties.
 ```javascript
 const days = ['sunday', 'monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
 
